@@ -1,4 +1,4 @@
-bmcgeheedd/tomcat-war-docker:
+kadhirsun/tomcat-war-docker-master:
 
   Env:
     # Set the below enviornment variables for your environment
